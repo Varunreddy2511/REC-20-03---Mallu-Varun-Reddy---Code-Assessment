@@ -84,8 +84,8 @@ PDF (10-Q Filing)
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/your-repo-name.git](https://github.com/Varunreddy2511/REC-20-03---Mallu-Varun-Reddy---Code-Assessment
+cd REC-20-03---Mallu-Varun-Reddy---Code-Assessment
 ```
 
 ### 2. Create a virtual environment
@@ -169,11 +169,6 @@ Open your browser at **http://localhost:8501**
 
 ---
 
-## 🔒 .gitignore Recommendation
-
-Make sure your `.env` file (which contains your API key) is **not** committed to GitHub. Add this to a `.gitignore` file:
-
-```
 .env
 venv/
 faiss_index/
