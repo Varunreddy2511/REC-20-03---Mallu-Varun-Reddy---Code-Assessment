@@ -1,0 +1,20 @@
+# Environment & secrets
+.env
+
+# Virtual environment
+venv/
+
+# FAISS index (large binary files, rebuilt via ingest.py)
+faiss_index/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Temp files
+*.log
+vc_redist.x64.exe
