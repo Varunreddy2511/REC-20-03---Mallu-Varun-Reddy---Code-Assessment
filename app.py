@@ -261,7 +261,7 @@ st.markdown("""
   <div class="header-icon">📈</div>
   <div>
     <p class="header-title">Apple Q3 2022 — Financial Intelligence</p>
-    <p class="header-sub">Grounded RAG · Zero-hallucination · Gemini 1.5 Flash</p>
+    <p class="header-sub">Grounded RAG </p>
   </div>
   <div class="badge">AAPL · 10-Q · SEC Filing</div>
 </div>
